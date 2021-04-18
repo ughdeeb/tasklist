@@ -1,6 +1,6 @@
 # # Traversy Modern Javascript Project
 
-## Project Title: Task List Prokect
+## Project Title: Task List Project
 
 ### Project Objective: More experience with vanilla javascript: learn how to use local storage
 
